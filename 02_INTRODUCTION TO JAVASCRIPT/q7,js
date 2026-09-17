@@ -1,0 +1,6 @@
+// Use a template literal to print name and age
+
+
+let name="divyam";
+let age=31;
+console.log(`my name is ${name} and i am ${age} years old`);

@@ -1,0 +1,5 @@
+// . Store two numbers and print their sum
+
+let x= 10;
+let y= 20;
+console.log(x + y);
